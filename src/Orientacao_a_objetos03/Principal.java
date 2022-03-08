@@ -49,8 +49,8 @@ public class Principal {
                 opcao = teclado.nextInt();
 
                 switch (opcao) {
-                    case 1:
-                        depositar();
+                        case 1:
+                            depositar();
                         break;
                     case 2:
                         sacar();
@@ -58,6 +58,7 @@ public class Principal {
                     case 3:
                         consultar();
                         break;
+
                     case 0:
                         break;
                     default:

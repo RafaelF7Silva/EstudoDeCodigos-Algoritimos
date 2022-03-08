@@ -2,7 +2,7 @@ package Codigos_de_Estudo;
 
 import java.util.Scanner;
 
-public class Algoritimos05 {
+public class Algoritimo05 {
         static String frutas[];
         static Scanner teclado = new Scanner(System.in);
 

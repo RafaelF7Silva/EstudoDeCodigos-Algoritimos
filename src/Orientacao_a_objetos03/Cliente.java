@@ -12,6 +12,7 @@ public class Cliente implements Comparable{
         }
 
         protected void dizer_oi() {
+
             System.out.println(this.nome + " estÃ¡ dizendo oi...");
         }
 
